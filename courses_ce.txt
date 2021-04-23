@@ -1,0 +1,265 @@
+CENG 101 Differential and Integral Calculus 
+Analytic geometry, functions and limits, derivatives, techniques and applications of differentiation,
+logarithmic and trigonometric functions. Definite and indefinite integrals, techniques of integration,
+with applications in sciences and engineering.
+
+CENG 102 Computational Thinking 
+Introduction to the central idea of computational thinking as it applies to a wide variety of human
+endeavors, including natural and physical sciences; computational mathematics with Sage, Matlab,
+and Mathematica; introduction to programming with Python.
+
+CENG 103 Engineering Physics 
+Vectors. Motion in one and two dimensions. Newton's laws and its applications. Work and energy.
+Conservation of mechanical energy. Momentum and motion of systems. Static equilibrium of rigid
+bodies. Rotation and angular momentum. Newton's law universal gravitation.
+
+CENG 104 Computing Literacy 
+Email and IM usage and etiquette; Computer security basics; Mobile and Cloud computing basics;
+Google apps and services: Docs, Sheets, Slides, Drive, Calendar, Keep, Scholar; Apple apps and
+services.
+
+CENG 105 Engineering Design
+Introduction; The Design Process, Creative style; Brainstorming. Effective graphic and verbal
+communication of design ideas to groups and individuals, Student will learn how to research an
+engineering problem, where to find information and how to assess its validity, Students will be give
+an overview of key achievements in the history of engineering. There will also be stories with ethical
+implications.
+
+CENG 106 Turkish Language-I
+To teach the importance of language in human and social life; showing the classification of languages
+and teaching of Turkish among the world languages; to teach the characteristics of Turkısh in terms
+of phonology, morphology, syntax; to analyze spelling and writing rules of Turkish.
+
+CENG 107 Linear Algebra With Applications 
+Systems of linear equations, matrix algebra, determinants, vector spaces and subspaces, basis and
+dimension, linear transformations, eigenvalues and eigenvectors, diagonalization, and orthogonality;
+singular-value decomposition.
+
+CENG 108 Computational Mathematics
+Introduction to the theoretical underpinnings of computer science and engineering. Topics include
+propositional predicate logic, set theory, functions and relations, counting, mathematical induction,
+1recursion, generating functions, graph theory and algorithms. Fundamentals of groups, rings, fields,
+number theory and cryptography. Computational tools such as Python, Sage, and Mathematica will
+be be used to illustrate properties the mathematical objects and structures.
+
+CENG 109 Electronic Physics And Systems
+In this course the principles of electrical and electronical engineering and basic technology will be
+introduced. Application examples of the knowledge on engineering will be given. In addition, electric
+machinery, power electronics, and electrical driving circuits will be introduced according to the
+mechanical engineering requirements
+
+CENG 110 Human Body
+The basic functions of human body. The circulatory, digestive, endocrine, immune and lymphatic
+systems. The muscular, skeletal and respiratory systems. Human brain, heart, kidneys, liver and
+lungs. Anatomy and functions of the eye. Properties of human vision. Anatomy and functions the ear.
+Properties of hearing and balance. Human genetics and physiology.
+
+CENG 111 Computer Aided Design
+Introduction to computer aided technical drawing. Basic drawing functions and multi-view
+projection. Sectioning and conventions. General concepts in 3D modelling. Creating parts in 3D
+design and solid modeling. Transfering 3D parts to drafting detailing. Assembly modelling and
+assembling parts. Surface modelling.
+
+CENG 112 Turkish Language-II
+To teach spelling, writing and punctuation rules, to teach basic elements of writing essays, to
+introduce Turkısh and World literary canons; to teach writing creative texts of literature especially
+story, poem and essay ; to teach writing scientific paper and texts; To analyse expression and
+punctuation disorders, to contribute lectures.
+
+CENG 201 Problem Solving With Computers In C
+Fundamental building blocks for solving problems using computers. Topics include basic computer
+organization and programming constructs: memory CPU, binary arithmetic, variables, expressions,
+statements, conditionals, iteration, functions, parameters, recursion, primitive and composite data
+types, and basic operating system and debugging tool.
+
+CENG 202 Digital Logic Design
+Assembly language programming and advanced computer organization; Digital logic design topics
+including gates, combinational circuits, flip-flops, and the design and analysis of sequential circuits.
+
+CENG 203 Signals and Systems
+Two-port network parameters; small-signal models of nonlinear devices; transistor amplifier circuits;
+frequency response of amplifiers; non-ideal op-amps; modulation, bandwidth, signals; Fourier
+analysis.
+
+CENG 204 General English I
+The English of the terms and concepts encountered in various branches of engineering are examined
+in depth, and for the proper use of these terms, Turkish-English bilingual translations are explained.
+English language training for students starts from simple forms and intended to develop over time.
+
+CENG 205 Ataturk's Principles And History Of Turkish Revolution
+The Collapse of the Ottoman Empire, Tanzimat and Reform Edict, I. and II. Constitutional Era, Tripoli
+and Balkan Wars, Worl War I, Mudros Armistice, War of Independence; Amasya Circular, National
+Congresses, Establishment of Turkish Grand National Assembly, Declaration of Republic
+
+CENG 206 Problem Solving With Computers In C++ 
+Intermediate building blocks for solving problems using computers. Topics include intermediate
+object-oriented programming, data structures, object- oriented design, algorithms for manipulating
+these data structures and their run-time analyses. Data structures introduced include stacks, queues,
+lists, trees, and sets.
+
+CENG 207 Digital System Design
+Design of synchronous digital systems: timing diagrams, propagation delay, latches and flip-flops,
+shift registers and counters, Mealy/Moore finite state machines, Verilog, 2-phase clocking, timing
+analysis, CMOS implementation, S- RAM, RAM-based designs, ASM charts, state minimization.
+
+CENG 208 Principals of Artificial Intelligence 
+Introduction to the field of artificial intelligence, which seeks to understand and build intelligent
+computational systems. Topics include intelligent agents, problem solving and heuristic search,
+knowledge representation and reasoning, uncertainty, probabilistic reasoning, and applications of AI.
+
+CENG 209 General English II
+The English terms and concepts encountered are examined in depth and Turkish-English bilingual
+translations are used in order to use the concepts correctly. To be able to master professional English
+language, the students are informed about grammatical structures of sentences, spelling and
+pronunciation.
+
+CENG 210 Ataturk's Principles And History Of Turkish Revolution II 
+Revolutions in Turkish politics, political parties and multi-party system attempts, revolutions in law,
+reorganization of public life, reforms in economics, Turkish foreign policy 1923-1938, Turkish
+domestic and international politics in post-Atatürk era.
+
+CENG 211 Data Structures And Algorithms 
+The study of data structures and their applications. Correctness proofs and techniques for the design
+of correct programs. Internal and external searching. Hashing and height balanced trees. Analysis of
+sorting algorithms. Memory management. Graph traversal techniques and their applications.
+
+CENG 301 Advanced Digital System Design 
+Introduction to computer-aided simulation and synthesis tools for VLSI. VLSI system design flow, role
+of CAD tools, layout synthesis, circuit simulation, logic simulation, logic synthesis, behavior synthesis
+and test synthesis.
+
+CENG 302 Machine Learning 
+Covers the most important techniques of machine learning (ML) and includes discussions of:
+wellposed learning problems; artificial neural networks; concept learning and general to specific
+ordering; decision tree learning; genetic algorithms; Bayesian learning; analytical learning; and
+others.
+
+CENG 303 Microprocessor System Design 
+This class is focused on the principles and practices of modern embedded systems design. In class,
+we will focus on computer architecture beyond the CPU, fundamentals of the hardware/software
+interface, techniques for sensing and controlling the physical world, and a few other topics. The labs
+and project require a substantial amount of time -- this is a lab-intensive class.
+
+CENG 304 Computer Architecture 
+Introduction to the architecture of computer systems. Topics include: central processing units,
+memory systems, channels and controllers, peripheral devices, interrupt systems, software versus
+hardware trade-offs.
+
+CENG 305 Cryptographic Engineering 
+An introduction to the basic concepts and techniques of cryptography and cryptanalysis. Topics
+include: The Shannon Theory, classical systems, the data encryption standard, the advanced
+encryption standard, public key systems, digital signatures, file security.
+
+CENG 401 Capstone Project I
+Student groups design a significant computerbased project. Multiple groups may cooperate toward
+one large project. Each group works independently; interaction among groups is via interface
+specifications and informal meetings.
+
+CENG 402 VHDL and FPGA System Design 
+Introduction to VHDL basic elements. VHDL simulation concepts. VHDL concurrent statements with
+examples and applications. VHDL subprograms, packages, libraries and design units. Writing VHDL for
+synthesis. Writing VHDL for finite state machines. Design case studies involve popular FPGAs.
+
+CENG 403 Capstone Project II 
+Student groups design a significant computerbased project. Multiple groups may cooperate toward
+one large project. Each group works independently; interaction among groups is via interface
+specifications and informal meetings.
+
+CENG 404 Human-Computer Interaction 
+The study of human-computer interaction enables system architects to design useful, efficient, and
+enjoyable computer interfaces. This course teaches the theory, design guidelines, programming
+practices, and evaluation procedures behind effective human interaction with computers.
+
+CENG 405 Directed Research 
+The students are involved in projects that are going on research centers. They are required to attend
+meetings, develop code, help to build devices, and give presentations as needed. The lecturer covers
+basic research techniques, search, writing papers in LaTeX, and working with data.
+
+CENG 405 Engineering Ethics 
+The origins of ethical thought; ethical principles and basic theories; personal, academic and
+professional ethics for engineers; environmental ethics; ethical implications of technology, computer
+ethics; ethics in research and experimentation.
+
+CENG 406 Biomedical Imaging
+This course covers the physical principles of major in vivo bio-imaging modalities, i.e., ultrasound,
+computed tomography, emission computed tomography, positron emission tomography and
+magnetic resonance imaging. We will show how existing physical principles transcend into bio-
+imaging and establish an important link into life sciences, illustrating the contributions physics can
+make to life sciences.
+
+CENG 407 Cyber-Physical Systems and Security 
+Cyber-physical as a term explains much of the underlying theory and practice; it is the interplay of
+physics and computation. Our understanding of the physical world through the models of classical
+and quantum physics, together with our models of computation from analog to digital, helps us build
+a better understanding of the cyber-physical world. Insights from physics, methods of complex
+systems theory, and formal methods borrowed from various facets of mathematical and
+computational sciences will help us to build reliable, safe, and secure systems.
+
+CENG 408 Advanced Cryptography 
+This is a course on methods, algorithms, techniques, and tools of cryptography. We study algorithmic
+and mathematical aspects of cryptographic methods and protocols, such as secret-key cryptography,
+public-key cryptography, hash functions, and digital signatures. We show how these techniques are
+used to solve particular data and communication security problems. This course material is useful for
+computer science, electrical engineering, and mathematics students who are interested in learning
+how cryptographic algorithms and methods are embedded in information systems, providing
+confidentiality, integrity, non-repudiation, and authenticity of stored and transmitted digital data.
+
+CENG 409 Theoretical Computer Science (2+2), 5
+Formal languages; finite automata and regular expressions; properties of regular languages;
+pushdown automata and context-free grammars; properties of context-free languages; introduction
+to computability and unsolvability. Introduction to Turing machines and computational complexity.
+
+CENG 410 Computer Graphics 
+Overview of OpenGL graphics standard, OpenGL state machine, other 3D graphics libraries, 3D
+graphics pipeline, 3D transformations and clipping, color model, shading model, shadow algorithms,
+texturing, curves and curved surfaces, graphics hardware, interaction devices and techniques.
+
+CENG 411 Mobile Application Development 
+An introduction to programming mobile computing devices. Students will learn about and study the
+shift in software development from desktop to mobile device applications. Topics will include
+5software engineering and design practices, advances in programming practice, and support tools for
+mobile application development and testing. Students will develop and deploy mobile applications as
+part of their course work.
+
+CENG 412 Hardware Software Interfaces 
+Issues in interfacing computing systems and software to practical I/O interfaces. Rapid response,
+real-time events and management of tasks, threads, and scheduling required for efficient design of
+embedded software and systems is discussed. Techniques for highly constrained systems.
+
+CENG 413 Parallel Computing 
+Fundamentals of high-performance computing and parallel algorithm design for numerical
+computation. Topics include parallel architecture and clusters, parallel programming with
+messagepassing libraries and threads, program parallelization methodologies, parallel performance
+evaluation and optimization, parallel numerical algorithms and applications with different
+performance trade-offs.
+
+CENG 414 Data Mining 
+Advanced course which introduces data mining concepts, principles and algorithms. Topics include
+association analysis, classification, clustering, sequential pattern analysis, stream data mining, mining
+complex types of data, multi-relational data mining, spatiotemporal data mining, social network
+analysis, text mining, link analysis, data mining applications (bioinformatics, security, the Web,
+software engineering) and trends in data mining.
+
+CENG 415 Database Systems 
+Database system architectures, relational data model, relational algebra, relational calculus, SQL,
+QBE, query processing, integrity constraints (key constraints, referential integrity), database design,
+ER and object-oriented data model, functional dependencies, lossless join and dependency
+preserving decompositions, Boyce-Codd and Third Normal Forms.
+
+CENG 416 Introduction to Robotics 
+Dynamic modeling and control methods for robotic systems. LaGrangian method for deriving
+equations of motion, introduction to the Jacobian, and modeling and control of forces and contact
+dynamics at a robotic end effector. Laboratories encourage a problem-solving approach to control.
+
+CENG 417 Biological and Artificial Vision 
+Overview of computer vision problems and techniques for analyzing the content images and video.
+Topics include image formation, edge detection, image segmentation, pattern recognition, texture
+analysis, optical flow, stereo vision, shape representation and recovery techniques, issues in object
+recognition, and case studies of practical vision systems.
+
+CENG 418 Neuromorphic Engineering 
+Neuromorphic systems carry out robust and efficient neural computation using hardware
+implementations that operate in physical time. They are event- or data-driven, they employ low-
+power, massively parallel hybrid analog/digital VLSI circuits, and operate using the same physics of
+computation used by the nervous system. The simulation of neural systems using the artificial neural
+networks on silicon are accomplished using methods of neuromorphic engineering.

@@ -1,0 +1,211 @@
+EE 101 Differential and Integral Calculus 
+Analytic geometry, functions and limits, derivatives, techniques and applications of differentiation,
+logarithmic and trigonometric functions. Definite and indefinite integrals, techniques of integration, with
+applications in sciences and engineering.
+
+EE 102 Computational Thinking 
+Introduction to the central idea of computational thinking as it applies to a wide variety of human
+endeavors, including natural and physical sciences; computational mathematics with Sage, Matlab, and
+Mathematica; introduction to programming with Python.
+
+EE 103 Engineering Physics 
+Vectors. Motion in one and two dimensions. Newton's laws and its applications. Work and energy.
+Conservation of mechanical energy. Momentum and motion of systems. Static equilibrium of rigid
+bodies. Rotation and angular momentum. Newton's law universal gravitation.
+
+EE 104 Computing Literacy 
+Email and IM usage and etiquette; Computer security basics; Mobile and Cloud computing basics;
+Google apps and services: Docs, Sheets, Slides, Drive, Calendar, Keep, Scholar; Apple apps and services.
+
+EE 105 Engineering Design 
+Introduction; The Design Process; Creative style; Brainstorming. Effective graphic and verbal
+communication of design ideas to groups and individuals, Student will learn how to research an
+engineering problem, where to find information and how to assess its validity, Students will be give an
+overview of key achievements in the history of engineering. There will also be stories with ethical
+implications.
+
+EE 106 Turkish Language I 
+To teach the importance of language in human and social life; showing the classification of languages
+and teaching of Turkish among the world languages; to teach the characteristics of Turkish in terms of
+phonology, morphology, syntax; to analyze spelling and writing rules of Turkish.
+
+EE 107 Linear Algebra with Applications 
+Systems of linear equations, matrix algebra, determinants, vector spaces and subspaces, basis and
+dimension, linear transformations, eigenvalues and eigenvectors, diagonalization, and orthogonality;
+singular-value decomposition.
+
+EE 108 Computational Mathematics 
+A function approach integrating algebra, trigonometry, and differential calculus; properties and graphs
+of polynomial, rational, exponential, and logarithmic functions; properties and graphs of trigonometric
+functions; functions and limits; derivatives; techniques and applications of differentiation; 
+logarithmicand trigonometric functions; Integral calculus, including definite and indefinite integrals; 
+techniques of integration, with applications in social and life sciences.
+
+EE 109 Computer Aided Design 
+Introduction to computer aided technical drawing. Basic drawing functions and multi-view projection.
+Sectioning and conventions. General concepts in 3D modelling. Creating parts in 3D design and solid
+modeling. Transfering 3D parts to drafting detailing. Assembly modelling and assembling parts. Surface
+modelling.
+
+EE 110 Electronic Physics and Systems 
+In this course the principles of electrical and electronical engineering and basic technology will be
+introduced. Application examples of the knowledge on engineering will be given. In addition, electric
+machinery, power electronics, and electrical driving circuits will be introduced according to the
+mechanical engineering requirements.
+
+EE 111 Human Body 
+The structure and functions of macro molecules and proteins. The structures and functions of cells.
+Cellular respiration, transport, communication. Energy production, flow, use and photosynthesis.
+Human genetics and physiology. Biotechnology.
+
+EE 112 Turkish Language II 
+To teach spelling, writing and punctuation rules, to teach basic elements of writing essays, to introduce
+Turkısh and World literary canons; to teach writing creative texts of literature especially story, poem and
+essay ; to teach writing scientific paper and texts; To analyse expression and punctuation disorders, to
+contribute lectures.
+
+EE 201 Differential Equations 
+First and second order differential equations; separation of variables; linear differential equations;
+systems of first order equations; nonlinear differential equations and stability
+
+EE 202 Electrical Circuits 
+Circuit elements and Kirchhoffs laws. Analysis of resistive circuits. Network theorems. Solutions of linear
+time-invariant differential equations. Analysis of first and second order circuits. Operational Amplifiers.
+Sinusoidal steady-state analysis, power calculations and balanced three-phase circuits.
+
+EE 203 Signal and Systems 
+An introduction to continuous and discrete time signals and systems. Study of the Fourier transform,
+Fourier series, z-transforms, and the fast Fourier transform. Sampling theorems for continuous to
+discrete-time conversion. Difference equations for digital signal processing systems, digital system
+realizations with block diagrams, analysis of transient and steady state responses, and connections to
+other areas in science and engineering
+
+EE 204 General English I 
+The English of the terms and concepts encountered in various branches of engineering are examined in
+depth, and for the proper use of these terms, Turkish-English bilingual translations are explained. English
+language training for students starts from simple forms and intended to develop over time.
+
+EE 205 Ataturk’s Principles and History of Revolution I 
+The Collapse of the Ottoman Empire, Tanzimat and Reform Edict, I. and II. Constitutional Era, Tripoli and
+Balkan Wars, Worl War I, Mudros Armistice, War of Independence; Amasya Circular, National
+Congresses, Establishment of Turkish Grand National Assembly, Declaration of Republic
+
+EE 201 Digital Logic Design 
+Principles and techniques of designing digital systems. Boolean algebra, state machines, simplification of
+switching expressions, and introductory computer arithmetic. Construct and analyze the operation of a
+latch, flip-flop and its application in synchronous
+
+EE 206 Vector Calculus 
+Calculus of functions of several variables; vector-valued functions; scalar and vector fields; integration
+along paths, double and triple integrals; integration over surfaces and applications of integrals; integral
+theorems of vector calculus; infinite series; Fourier series; integrals and transforms; partial differential
+equations
+
+EE 207 Electronics 
+Fundamental concepts in electronics. Diode, BJT and FET Circuits; design using ideal operational
+amplifiers; feedback; frequency response; biasing; current sources and mirrors; small-signal analysis;
+design of operational amplifiers.
+
+EE 208  General English II 
+The English terms and concepts encountered are examined in depth and Turkish-English bilingual
+translations are used in order to use the concepts correctly. To be able to master professional English
+language, the students are informed about grammatical structures of sentences, spelling and
+pronunciation.
+
+EE 209 Ataturk’s Principles and History of Revolution II 
+Revolutions in Turkish politics, political parties and multi-party system attempts, revolutions in law,
+reorganization of public life, reforms in economics, Turkish foreign policy 1923-1938, Turkish domestic
+and international politics in post-Atatürk era.
+
+EE 301 Probability Theory and Stochastic Processes 
+This course provides a foundation in the theory and applications of probability and stochastic processes
+and an understanding of the mathematical techniques relating to random processes in the areas of
+signal processing, detection, estimation, and communication. Topics include the axioms of probability,
+random variables, and distribution functions; functions and sequences of random variables; stochastic
+processes; and representations of random processes.
+
+EE 302 Electronics Circuits 
+Stability and response of feedback amplifier, wideband amplifier, operational amplifier characteristics,
+waveform generators and wave shaping, nonlinear circuit applications, signal generators, andphotolithography. 
+Design of analog electronic circuits, circuit simulation, response characterization, and printed circuit 
+construction
+
+EE 303 Electromagnetics 
+Basic electrical and magnetic phenomena, as well as laws for electrical circuits, both at direct current
+and alternating current. The course gives a thorough introduction to Maxwell's equations, and how to
+use them to derive the characteristics of electromagnetic waves.
+
+EE 304 Information Theory 
+An introduction to mathematics of information theory. We will cover both classical and modern topics,
+including information entropy, lossless data compression, binary hypothesis testing, channel coding, and
+lossy data compression.
+
+EE 305 Computer Architecture 
+Includes the organization and architecture of computer systems hardware; instruction set architectures;
+addressing modes; register transfer notation; processor design and computer arithmetic; memory
+systems; hardware implementations of virtual memory, and input/output control and devices
+
+EE 306 Cryptographic Engineering 
+This course is designed for computer science, computer engineering, electrical engineering, and
+mathematics students interested in understanding, modeling, designing, developing, testing, and
+validating cryptographic software and hardware. We study algorithms, methods, and techniques in
+order to create state-of-art cryptographic embedded software and hardware using common platforms
+and technologies.
+
+EE 401 Capstone Project I 
+Student groups design a significant computerbased project. Multiple groups may cooperate toward one
+large project. Each group works independently; interaction among groups is via interface specifications
+and informal meetings.
+
+EE 402 Control Systems 
+Differential equations, Laplace transforms, transfer functions, poles and zeros, state space models,
+modeling, first and second order systems, stability, steady-state errors, root locus, Bode and Nyquist
+plots, transient response analysis and design, PID control, lead lag compensation, simple frequency
+response techniques. Stabilising feedback control for transfer function and state-space models
+
+EE 403 Capstone Project II 
+Student groups design a significant computerbased project. Multiple groups may cooperate toward one
+large project. Each group works independently; interaction among groups is via interface specifications
+and informal meetings.
+
+EE 404 Communications 
+Evolution of radio communications and broadcast systems, new trends, economics of radio
+communications. Spectrum usage. Cellular concept, coverage, frequency re-use, interference. Broadcast
+concepts. Radio propagation. Large scale path loss, small scale fading and multipath. Modulation
+techniques for mobile radio and broadcast. Multiple access techniques for wireless communications.
+Networking and planning. Recent topics on wireless communications.
+
+EE 405 Directed Research 
+The students are involved in projects that are going on research centers. They are required to attend
+meetings, develop code, help to build devices, and give presentations as needed. The lecturer covers
+basic research techniques, search, writing papers in LaTeX, and working with data.
+
+EE 406 Engineering Ethics 
+The origins of ethical thought; ethical principles and basic theories; personal, academic and professional
+ethics for engineers; environmental ethics; ethical implications of technology, computer ethics; ethics in
+research and experimentation.
+
+EE 407 Photonics 
+Fundamental principles of lasers, optical data processing, nonlinear optics, optical communications,
+optical computing, optical data storage, optical system design and holography. These are the
+fundamental enabling technologies for future high-speed communication systems including high
+performance telecommunication and data communication networks.
+
+EE 408 Introduction to MEMS 
+Microelectromechanical devices (MEMS), such as pressure sensors, accelerometers, rate gyroscopes,
+and opto-mechanical assemblies and displays, require knowledge of a broad range of disciplines, from
+microfabrication to mechanics to electromagnetism. This course presents an introduction to this broad
+field, using examples, design projects, and hands-on labs drawn from real-world MEMS applications
+
+EE 409 Medical Instrumentation 
+Medical terminology. General diagnostics. Electrophysical methods like ECG, EEG, EMG, defibrillator and
+pacemaker. Measurement techniques for respiration and circulation. Methods for intensive monitoring.
+clinical/chemical measurement techniques. Disinfection/sterilisation, sensors. Imaging techniques: X-
+rays, nuclear medicine, ultrasound, magnetic resonance. Supporting instrumentation like incubator,
+respirator, anaesthesia machine and dialysis machine. Surgical techniques with diathermy and laser.
+
+EE 410 Digital Signal Processing
+Fundamental principles of DT systems and signals, in both time and Fourier domains, are presented.
+These are followed by modern applications of digital signal processing (e.g telecommunications).
+Throughout the course, the focus is on developing techniques and algorithms for solving discrete-time
+signal processing problems.

@@ -1,0 +1,48 @@
+LESSONS	computer	students	for	techniques	design	applications	on	are	this	a	digital	concepts	analysis	topics	as	devices	physical	introduction	systems	system	functions	principles	in	is	with	basic	will	course	engineering	programming	computational	include	data	problems	algorithms
+ceng 101 differential and integral calculus 	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	1	0	0	0	1	0	0	0	0	0	0
+ceng 102 computational thinking 	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	2	0	0	0	0	0	0	2	0	0	0	0	1	2	0	0	0	0
+ceng 103 engineering physics 	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 104 computing literacy 	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 105 engineering design	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	3	0	2	0	0	0	0	0	0
+ceng 106 turkish languagei	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 107 linear algebra with applications 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 108 computational mathematics	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	2	0	0	0	0	0	1	0	1	0	1	1	0	0	1
+ceng 109 electronic physics and systems	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	1	3	1	3	0	0	0	0	0	0
+ceng 110 human body	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+ceng 111 computer aided design	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0
+ceng 112 turkish languageii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+ceng 201 problem solving with computers in c	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	2	0	0	0	1	0	1	1	1	0
+ceng 202 digital logic design	1	0	0	0	2	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+ceng 203 signals and systems	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 204 general english i	0	1	2	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0
+ceng 205 ataturks principles and history of turkish revolution	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 206 problem solving with computers in c 	0	0	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	3	1	1
+ceng 207 digital system design	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 208 principals of artificial intelligence 	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+ceng 209 general english ii	0	1	0	0	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 210 ataturks principles and history of turkish revolution ii 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 211 data structures and algorithms 	0	0	1	2	1	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+ceng 301 advanced digital system design 	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 302 machine learning 	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+ceng 303 microprocessor system design 	1	0	1	1	1	0	2	0	2	3	0	0	0	1	0	0	1	0	1	0	0	1	1	2	0	0	1	0	0	0	0	0	0	0	0
+ceng 304 computer architecture 	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+ceng 305 cryptographic engineering 	0	0	0	1	0	0	0	0	0	0	1	1	0	1	0	0	0	1	2	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0
+ceng 401 capstone project i	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+ceng 402 vhdl and fpga system design 	0	0	2	0	2	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+ceng 403 capstone project ii 	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+ceng 404 humancomputer interaction 	1	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0
+ceng 405 directed research 	0	1	0	1	0	0	1	3	0	0	0	0	0	0	1	1	0	0	0	0	0	0	2	0	1	1	0	0	0	0	0	0	1	0	0
+ceng 405 engineering ethics 	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0
+ceng 406 biomedical imaging	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	0
+ceng 407 cyberphysical systems and security 	0	0	0	0	0	0	0	0	0	2	1	0	0	0	1	0	1	0	2	0	0	0	0	1	1	0	1	0	0	0	1	0	0	0	0
+ceng 408 advanced cryptography 	1	1	1	2	0	0	1	3	2	1	2	0	0	0	1	0	0	0	1	0	1	0	2	2	0	0	0	2	1	0	0	0	2	1	2
+ceng 409 theoretical computer science 22 5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+ceng 410 computer graphics 	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+ceng 411 mobile application development 	0	2	1	0	1	2	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	0	2	0	0	0	3	1	1	2	0	1	0	0	0
+ceng 412 hardware software interfaces 	0	0	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+ceng 413 parallel computing 	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	1	0	0	1
+ceng 414 data mining 	0	0	0	0	0	1	0	0	0	0	0	1	4	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	0	0	1	7	0	1
+ceng 415 database systems 	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+ceng 416 introduction to robotics 	0	0	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ceng 417 biological and artificial vision 	1	0	1	2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+ceng 418 neuromorphic engineering 	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1	0	2	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0
